@@ -1,0 +1,16 @@
+{
+  "author": "Frank Pinto <frank@onswipe.com>",
+  "name": "euclid_distance",
+  "description": "Compute the Euclidean distance of two sets of points",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/frankpinto/euclid_distance.git"
+  },
+  "main": "euclidean.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
